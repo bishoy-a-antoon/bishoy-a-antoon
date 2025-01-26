@@ -1,7 +1,10 @@
 <h1>Hi 👋, I'm Bishoy Adel</h1>
 <h3>I'm a passionate data analyst and geek at heart</h3>
+
 - 🌱 I’m currently learning **SQL, Python and Shell Scripting**
+
 - 💬 Ask me about **Statistics, Spreadsheets, Data Charts**
+
 - 📫 How to reach me **bishoy.a.antoon@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
